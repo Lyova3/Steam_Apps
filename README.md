@@ -1,12 +1,9 @@
-# DSA-Project-Group-5
+
 
 ---
 
 # 🧠 MiniDB — Scalable In-Memory Data Management System
 
-### *DS115 - Data Structures / Algorithms in Data Science*
-
-### **Team:** DSA Group 5
 
 ---
 
@@ -28,11 +25,11 @@ This project applies the core **data structures and algorithms** learned during 
 ## 📁 Folder Structure
 
 ```
-DSA-Project-Group-5/
+
 │
 ├── main.py                         # Application entry point (launches Streamlit UI)
 ├── README.md                       # Project documentation
-├── Project description.pdf         # Original project specification
+        
 │
 ├── data/                           # Steam dataset (CSV files)
 │   ├── applications.csv
@@ -269,22 +266,4 @@ Implemented in graph_algorithms.py:
   4. View analytics in UI
 
 
----
 
-## 🧩 Deliverables
-
-✅ Fully functional MiniDB system
-✅ `README.md` (this file)
-✅ Technical Report (2–4 pages)
-✅ Streamlit UI demo
-✅ Presentation
-
----
-
-## 📘 References
-
-* Kaggle Steam Dataset 2025 — Multi-Modal Gaming Analytics
-* AVL Tree algorithms (CLRS, GeeksforGeeks, and textbook references)
-* Streamlit official docs
-
----
