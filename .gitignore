@@ -1,0 +1,7 @@
+# ignore datasets
+*.csv
+data/
+
+# OS junk
+.DS_Store
+Thumbs.db
