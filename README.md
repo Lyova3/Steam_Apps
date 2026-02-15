@@ -108,6 +108,9 @@ Our MiniDB supports:
 
 ### Steam Dataset 2025 — Multi-Modal Gaming Analytics
 
+Place the data/ folder in the root directory of the project (same level as main.py).
+https://drive.google.com/drive/folders/1iIxOkaltvOjlW2ttPaiKK6enfCobz1iT?usp=sharing
+
 📦 Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/crainbramp/steam-dataset-2025-multi-modal-gaming-analytics)
 
 **Description:**
