@@ -18,7 +18,6 @@ Our MiniDB supports:
 * Manual AVL Tree indexing for efficiency
 * An interactive **Streamlit** UI
 
-This project applies the core **data structures and algorithms** learned during the semester — especially **AVL Trees** and **Graph Algorithms** — to create a functional and efficient system.
 
 ---
 
